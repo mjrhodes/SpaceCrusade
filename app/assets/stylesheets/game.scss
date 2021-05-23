@@ -1,0 +1,14 @@
+// Place all the styles related to the Game controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+body {
+  text-align: center;
+  margin: 50px;
+}
+
+#canvas {
+  width: 1000px;
+  height: 500px;
+  background-color: #DDD;
+  border: 1px solid #888;
+}
